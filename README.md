@@ -24,6 +24,7 @@ R
  Patreon [ristwns](https://patreon.com/ristwns),
  Twitter [@ristwns](https://twitter.com/ristwns),
  Instagram [@ristwns](https://www.instagram.com/ristwnsly/), 
+ Locals [RIS](https://discord.gg/F8AFWVynrB),
  Discord [RIS](https://discord.gg/F8AFWVynrB)
  
 <!--
