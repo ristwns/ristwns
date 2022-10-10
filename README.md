@@ -15,10 +15,16 @@ If you love cute little chibi characters, you can now immerse yourself into my *
 
 Before I go, I just want to let you know that I love you and I genuinely appreciate all of your support. Feel free to leave me a message before checking out. I'm looking forwards to talk to you.
 
-much love and bye,
+Much love and bye,
+
 R
 
+## Social media「ソーシャルメディア」
 
+ Patreon [ristwns](https://patreon.com/ristwns),
+ Twitter [@ristwns](https://twitter.com/ristwns),
+ Instagram [@ristwns](https://www.instagram.com/ristwnsly/)
+ 
 <!--
 
 **ristwns/ristwns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
