@@ -2,11 +2,11 @@
 *Lovable charming chibi that makes you smile.*<br/> 
 Enjoy your favorite music artists, movie/tv show characters and pop culture personalities in mini childlike figure.
 
-![RIS](https://pbs.twimg.com/media/Fef3NQBagAAmc_J?format=jpg&name=large)
 ![RIS](https://pbs.twimg.com/media/Fef5dLCaAAAItKF?format=jpg&name=large)
 
 
 <!--
+
 **ristwns/ristwns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![RIS](https://pbs.twimg.com/media/Fef3NQBagAAmc_J?format=jpg&name=large)
 update readme.md
+
 -->
