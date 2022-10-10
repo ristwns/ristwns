@@ -1,5 +1,5 @@
 ### RIS・リス
->「Lovable charming chibi that makes you smile.」<br/>
+>Lovable charming chibi that makes you smile.
 
 Enjoy your favorite music artists, movie/tv show characters and pop culture personalities in mini childlike figure.
 
