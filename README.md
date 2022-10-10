@@ -2,7 +2,8 @@
 *Lovable charming chibi that makes you smile.*<br/> 
 Enjoy your favorite music artists, movie/tv show characters and pop culture personalities in mini childlike figure.
 
-![RIS](https://pbs.twimg.com/media/Fef5dLCaAAAItKF?format=jpg&name=small)
+![RIS](https://pbs.twimg.com/media/Fef3NQBagAAmc_J?format=jpg&name=large)
+![RIS](https://pbs.twimg.com/media/Fef5dLCaAAAItKF?format=jpg&name=large)
 
 
 <!--
@@ -18,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+update readme.md
 -->
