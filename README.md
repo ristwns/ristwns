@@ -23,7 +23,8 @@ R
 
  Patreon [ristwns](https://patreon.com/ristwns),
  Twitter [@ristwns](https://twitter.com/ristwns),
- Instagram [@ristwns](https://www.instagram.com/ristwnsly/)
+ Instagram [@ristwns](https://www.instagram.com/ristwnsly/), 
+ Discord [RIS](https://discord.gg/F8AFWVynrB)
  
 <!--
 
